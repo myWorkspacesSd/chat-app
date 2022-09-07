@@ -1,0 +1,13 @@
+{
+  "name": "chat-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "myWorkspacesSd <myWorkspacesSd>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/myWorkspacesSd/chat-app",
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
